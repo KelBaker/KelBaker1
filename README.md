@@ -2,7 +2,11 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Eu sou Kelvin Henrique, um desenvolvedor front-end apaixonado por criar interfaces de usuário dinâmicas e responsivas. Tenho experiência em JavaScript, React, CSS, HTML e TypeScript. Adoro transformar ideias em realidade através do código.
+Olá, tudo bem? Eu me sou Kelvin Henrique, um desenvolvedor front-end apaixonado por criar interfaces de usuário dinâmicas e responsivas. Tenho experiência em JavaScript, React, CSS, HTML e TypeScript. Adoro transformar ideias em realidade através do código.
+
+Sou um amante da tecnologia e estou sempre em busca de novas oportunidades para expandir meus conhecimentos e habilidades. Atualmente, sou estudante na escola DNC, onde continuo aprimorando minhas competências técnicas e explorando novas áreas de interesse.
+
+Estou aberto a novas oportunidades e desafios que me permitam contribuir com projetos inovadores e de alto impacto. Se você está procurando um desenvolvedor dedicado e entusiasta, vamos conversar!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
